@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Light Theme -->
+    <color name="colorSurfaceLight">#FFFFFF</color>
+    <color name="my_light_primary">#893AF4</color>
+    <color name="my_light_primary_darker">#4518D1</color>
+    <color name="my_light_primary_variant">#A563E4</color>
+
+    <!-- Dark Theme -->
+    <color name="colorSurfaceDark">#121212</color>
+    <color name="my_dark_primary">#A152F2</color>
+    <color name="my_dark_primary_darker">#6106D3</color>
+    <color name="my_dark_primary_variant">#AD75E4</color>
+
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#CC0000</color>
+    <color name="color_tint_day_night">#757575</color>
+
+</resources>

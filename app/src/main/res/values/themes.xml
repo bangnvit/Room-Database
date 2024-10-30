@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.RoomDatabase" parent="Theme.Material3.DayNight">
+
+        <item name="colorPrimary">@color/my_light_primary_darker</item>
+        <item name="colorPrimaryVariant">@color/my_light_primary_variant</item>
+        <item name="colorSurface">@color/colorSurfaceLight</item>
+
+    </style>
+
+    <style name="Theme.RoomDatabase" parent="Base.Theme.RoomDatabase" />
+</resources>
