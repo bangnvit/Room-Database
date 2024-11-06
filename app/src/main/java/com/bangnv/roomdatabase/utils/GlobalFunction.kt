@@ -1,4 +1,4 @@
-package com.bangnv.mvvmarchitecturepattern.utils
+package com.bangnv.roomdatabase.utils
 
 import android.app.Activity
 import android.util.Log
